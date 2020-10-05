@@ -1,0 +1,50 @@
+[
+  {
+    "id": "36d299db-db55-4ef2-8e96-0d30d3d077f8-77b242db",
+    "data": [
+      {
+        "text": "news of covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e74be14c-eeb4-49ec-85ed-09755ff90049-77b242db",
+    "data": [
+      {
+        "text": "live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e838b4f-71a4-4c1a-943a-2e2315256f52-77b242db",
+    "data": [
+      {
+        "text": "news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+   {
+    "id": "5d1ff3d6-5d65-4c79-85dc-5239d7754817-77b242d",
+    "data": [
+      {
+        "text": "live news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+ ]

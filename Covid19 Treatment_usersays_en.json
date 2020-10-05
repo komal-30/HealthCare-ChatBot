@@ -1,0 +1,27 @@
+[
+  {
+    "id": "4c359762-0c25-4dbd-b5ad-4299450fda37-77b242db",
+    "data": [
+      {
+        "text": "treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "023fbc4e-9b05-4f40-ba2d-81a17ed384b0-77b242db",
+    "data": [
+      {
+        "text": "covid19 treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+
+]

@@ -1,0 +1,55 @@
+{
+  "id": "2f268135-2733-4200-9fad-5882443306df",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "speech": "Welcome to HealthCare Bot! I hope you are safe. How can I help you? "      
+           {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Kindly choose one option 👇",
+          "replies": [
+            "Statistics",
+            "FAQ",
+            "Help Desk",
+            "Exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Welcome to HealthCare Bot! I hope you are safe. How can I help you? 1.Symptoms 2.Information about hospitals in your local area 3.COVID-19  Case Statistics  4.FAQ 5.Exit"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

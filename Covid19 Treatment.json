@@ -1,0 +1,39 @@
+{
+  "id": "0b5b992f-70c9-43e4-99e1-fc3b810d26f6",
+  "name": "Covid19 treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Covid19 Treatment",
+          "subtitle": "https://rb.gy/einrsa"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Covid19 Treatment 👉🏻👉🏻👉🏻 - https://rb.gy/einrsa"
+        }
+      ],
+
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
