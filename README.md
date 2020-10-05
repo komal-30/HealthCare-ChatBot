@@ -1,11 +1,11 @@
 # HealthCare-ChatBot. 
--Dialogflow:Dialogflow is a Google-owned framework that enables users to develop human-computer interaction technologies that can support Natural Language Processing (NLP). 
--Agent:An agent is merely another term used to refer to the chatbot. Sometimes people say ‘agent’ when referring to the processing module within the application that enables discussions with the chatbot. And sometimes, it is another way to refer to the bot since it functions ‘like a support agent’. The context will always be clear enough for you know what they mean.
--Intents: Dialogflow agents use built-in machine learning algorithms to parse through patient inputs and extract actionable data to provide accurate responses.
+- Dialogflow:Dialogflow is a Google-owned framework that enables users to develop human-computer interaction technologies that can support Natural Language Processing (NLP). 
+- Agent:An agent is merely another term used to refer to the chatbot. Sometimes people say ‘agent’ when referring to the processing module within the application that enables discussions with the chatbot. And sometimes, it is another way to refer to the bot since it functions ‘like a support agent’. The context will always be clear enough for you know what they mean.
+- Intents: Dialogflow agents use built-in machine learning algorithms to parse through patient inputs and extract actionable data to provide accurate responses.
 A basic intent constitutes training phrases, actions, parameters, and responses that enable Dialogflow to match a patient’s expressions with the closest intent. 
--Entities:  ‘Entities’ are Dialogflow’s mechanism for identifying and extracting useful data from natural language inputs. 
+- Entities:  ‘Entities’ are Dialogflow’s mechanism for identifying and extracting useful data from natural language inputs. 
 An Intent limits the bot to the scope of the user input. Entities enable it to extract specific pieces of information from your users. 
--Actions & Parameters: These too, are Dialogflow mechanisms. They serve as a method to identify/annotate the keywords/values in the training phrases by connecting them with Entities
+- Actions & Parameters: These too, are Dialogflow mechanisms. They serve as a method to identify/annotate the keywords/values in the training phrases by connecting them with Entities
 
  There are various files uploaded in the repository which have the following details
  
