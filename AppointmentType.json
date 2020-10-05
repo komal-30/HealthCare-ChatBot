@@ -1,0 +1,8 @@
+{
+  "id": "c235de85-477a-4352-a7e4-6b740584cb19",
+  "name": "AppointmentType",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
