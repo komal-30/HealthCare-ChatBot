@@ -10,9 +10,7 @@ An Intent limits the bot to the scope of the user input. Entities enable it to e
  There are various files uploaded in the repository which have the following details
  
 - Entities : List and details of all the entities used for the chatbot. Entity files are as follows:
-  AppointmentType.json
-  sys.geo-country.json
-  sys.geo-country_entries_en.json
+  AppointmentType.json , sys.geo-country_entries_en.json , sys.geo-country.json
 - Intents : Details of all the intents used for the chatbot 
 - agent.json : Details of the agent 
 - package.json : Details of the packages used for the development of the bot
