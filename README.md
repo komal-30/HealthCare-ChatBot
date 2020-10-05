@@ -17,8 +17,9 @@ An Intent limits the bot to the scope of the user input. Entities enable it to e
 - customSmalltalkResponses_en : Contains all the details of the responses of the chatbot
 - Abstract: Contains abstract of the project
 - Report : Contains a detailed project report and project description
-- ProjectImages: Contains a screenshots of the conversations with the bot 
-- ProjectVideo : Contains a video of interaction with the bot 
+
+Project Images Link : 
+Project Video Link : 
 
 
 
