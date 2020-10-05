@@ -7,8 +7,12 @@ A basic intent constitutes training phrases, actions, parameters, and responses 
 An Intent limits the bot to the scope of the user input. Entities enable it to extract specific pieces of information from your users. 
 -Actions & Parameters: These too, are Dialogflow mechanisms. They serve as a method to identify/annotate the keywords/values in the training phrases by connecting them with Entities
 
-There are nine folders uploaded in the repository which have the following details:
+There are various files uploaded in the repository which have the following details:
 - Entities : List and details of all the entities used for the chatbot
+ Entity files are as follows:
+ * AppointmentType.json
+ * sys.geo-country.json
+ * sys.geo-country_entries_en.json
 - Intents : Details of all the intents used for the chatbot 
 - agent.json : Details of the agent 
 - package.json : Details of the packages used for the development of the bot
