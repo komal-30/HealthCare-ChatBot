@@ -18,7 +18,7 @@ An Intent limits the bot to the scope of the user input. Entities enable it to e
 - Abstract: Contains abstract of the project
 - Report : Contains a detailed project report and project description
 
-Project Demonstration Video and documents link : https://drive.google.com/drive/folders/1p8KulQ-mABEccZEibhurq_y21Sb-d-GU?usp=sharing 
+
 
 
 
